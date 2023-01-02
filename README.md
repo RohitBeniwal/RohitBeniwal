@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Beniwal</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbeniwal" /> </p>
 
