@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Competitive Programming , Front End Development**
 
-- 📫 How to reach me **beniwalrb177@gmail.com**
+- 📫 How to reach me **211230047@nitdelhi.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
