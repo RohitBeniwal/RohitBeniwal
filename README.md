@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbeniwal" /> </p>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **BackEnd Projects**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Competitive Programming , Front End Development**
+- 💬 Ask me about **Competitive Programming & Front End Development**
 
 - 📫 How to reach me **211230047@nitdelhi.ac.in**
 
