@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbeniwal" /> </p>
 
-- 🔭 I’m currently working on **BackEnd Projects**
+- 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **EJS**
 
 - 💬 Ask me about **Competitive Programming & Front End Development**
 
