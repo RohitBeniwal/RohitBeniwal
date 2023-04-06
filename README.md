@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbeniwal" /> </p>
 
-- 🔭 I’m currently working on **Backend Projects**
 
 - 🌱 I’m currently learning to develop **Chrome Extensions**
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **211230047@nitdelhi.ac.in**
 
-- My portfolio website **https://rohit-beniwal.netlify.app/**
+- 🔭 My portfolio website **https://rohit-beniwal.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
