@@ -6,11 +6,13 @@
 
 - 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning to develop **Chrome Extensions**
 
 - 💬 Ask me about **Competitive Programming & Front End Development**
 
 - 📫 How to reach me **211230047@nitdelhi.ac.in**
+
+- My portfolio website **https://rohit-beniwal.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
