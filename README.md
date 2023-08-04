@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Beniwal</h1>
-<h3 align="center">A passionate Competitive Programmer and Front End Developer from India</h3>
+<h3 align="center">Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbeniwal" /> </p>
