@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning to develop **Chrome Extensions**
 
-- 💬 Ask me about **Competitive Programming & Front End Development**
+- 💬 Ask me about **Competitive Programming**
 
 - 📫 How to reach me **211230047@nitdelhi.ac.in**
 
