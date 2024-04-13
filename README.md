@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbeniwal" /> </p>
 
 
-- 🌱 I’m currently studying AI/ML**
+- 🌱 I’m currently studying **AI/ML**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
