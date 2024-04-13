@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Beniwal</h1>
-<h3 align="center">FULL STACK DEVELOPER | OPEN SOURCE</h3>
+<h3 align="center">FULL STACK DEVELOPER | OPEN SOURCE | AI/Ml Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbeniwal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbeniwal" /> </p>
 
 
-- 🌱 I’m currently learning to develop **Chrome Extensions**
+- 🌱 I’m currently studying AI/ML**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
